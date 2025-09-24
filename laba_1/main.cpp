@@ -20,7 +20,7 @@ int main() {
         }
         return 0;
     } else {
-        std::cout << "Ошибка: не правильный день" << std::endl;
+        std::cout << "Ошибка: неправильный день" << std::endl;
     }
     return 0; 
 }
